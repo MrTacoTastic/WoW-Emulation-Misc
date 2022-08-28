@@ -1,6 +1,6 @@
 ## WoW Emulation Misc
 
-Just a bunch of things useful for wow emulation you can find their zip files under releases.
+Just a bunch of things useful for wow emulation.
 
 Repository created by Staff @ https://wowemulation.com
 
